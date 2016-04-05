@@ -182,7 +182,7 @@ practical significance boundary: dmin = 0.0075
 - Lower bound of the CI: **-0.011605**
 - Upper bound of the CI: **0.001857**
 
-Net conversion is **neiter statistically nor practically significant**.
+Net conversion is **neither statistically nor practically significant**.
 
 Since the confidence interval includes 0, the results are not statistically significant.
 
